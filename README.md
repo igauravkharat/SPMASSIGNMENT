@@ -1,0 +1,2 @@
+# SPMASSIGNMENT
+git add READMENEW.md
